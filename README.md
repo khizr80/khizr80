@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm muhammad khizr</h1>
 <h3 align="center">backend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **blog site**
+- 🔭 I’m currently working as **associate software engineeer**
 
-- 💬 Ask me about **laravel java**
+- 💬 Ask me about **laravel java python**
 
 - 📫 How to reach me **khizr80@gmail.com**
 
