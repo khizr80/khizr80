@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Khizr</h1>
-<h3 align="center">Backend Developer from Pakistan</h3>
+<h3 align="center">Software Developer from Pakistan</h3>
 
 <p align="center">
-I'm a passionate backend engineer who loves building scalable systems, clean APIs, and efficient server-side applications.  
-I enjoy working with modern backend technologies, solving complex problems, and continuously improving my craft.
+I'm a passionate Software engineer who loves building scalable systems, clean APIs, and efficient server-side applications.  
+I enjoy working with modern technologies, solving complex problems, and continuously improving my craft.
 </p>
 
 - 🔭 I’m currently working as an **Associate Software Engineer**
